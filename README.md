@@ -1,7 +1,7 @@
 # Olá, eu sou o Cleber Fonseca! 👋
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clebersfonseca&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/clebersfonseca/clebersfonseca/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
